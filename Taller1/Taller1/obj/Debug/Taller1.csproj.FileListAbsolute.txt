@@ -1,0 +1,7 @@
+C:\Users\steve\source\repos\TallerNet_00020140592\Taller1\Taller1\bin\Debug\Taller1.exe.config
+C:\Users\steve\source\repos\TallerNet_00020140592\Taller1\Taller1\bin\Debug\Taller1.exe
+C:\Users\steve\source\repos\TallerNet_00020140592\Taller1\Taller1\bin\Debug\Taller1.pdb
+C:\Users\steve\source\repos\TallerNet_00020140592\Taller1\Taller1\obj\Debug\Taller1.csprojAssemblyReference.cache
+C:\Users\steve\source\repos\TallerNet_00020140592\Taller1\Taller1\obj\Debug\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\TallerNet_00020140592\Taller1\Taller1\obj\Debug\Taller1.exe
+C:\Users\steve\source\repos\TallerNet_00020140592\Taller1\Taller1\obj\Debug\Taller1.pdb
